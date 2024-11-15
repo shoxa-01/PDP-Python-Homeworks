@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+UpperName = name.upper()
+LoverName = name.lower()
+print(UpperName)
+print(LoverName)
